@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Z0r0Sanz
 - 👀 I’m interested in backend(videogames,webpages,c#,winform)
 - 🌱 I’m currently learning Unity
-- 💞️ I’m looking to collaborate on any proyect that give me experience
+- 💞️ I’m looking to collaborate on any project that give me experience
 - 📫 How to reach me miguelsanzmontalvo6@gmail.com
 
 <!---
